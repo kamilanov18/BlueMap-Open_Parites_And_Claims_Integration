@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10eeaaed-d2f7-4dd4-bf68-25c55db465f7" name="Changes" comment="Add mdk">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/forge-1.20.1-47.3.0-mdk.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/forge-1.20.1-47.3.0-mdk.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/CREDITS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/src/main/java/com/example/examplemod/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/src/main/java/com/example/examplemod/ExampleMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/src/main/resources/META-INF/mods.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk/src/main/resources/pack.mcmeta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.20.1-47.3.0-mdk" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.20.1-47.3.0-mdk" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.20.1-47.3.0-mdk" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="forgegradle runs" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kamilanov18&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kamilanov18/BlueMap-Open_Parites_And_Claims_Integration.git&quot;,
+    &quot;accountId&quot;: &quot;d1e7d02f-95d5-4024-9721-5205e9a26bd4&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2taY845ULJaaj3e5mSjWCRXB1Hu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.forge-1.20.1-47.3.0-mdk [runClient].executor": "Run",
+    "Gradle.forge-1.20.1-47.3.0-mdk [runServer].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/projects/integration/BlueMap-Open_Parites_And_Claims_Integration/forge-1.20.1-47.3.0-mdk/src/main/java/com",
+    "last_opened_file_path": "D:/projects/integration/BlueMap-Open_Parites_And_Claims_Integration",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.forge-1.20.1-47.3.0-mdk [runClient]">
+    <configuration name="forge-1.20.1-47.3.0-mdk [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="forge-1.20.1-47.3.0-mdk [runServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/forge-1.20.1-47.3.0-mdk" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.forge-1.20.1-47.3.0-mdk [runClient]" />
+        <item itemvalue="Gradle.forge-1.20.1-47.3.0-mdk [runServer]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10eeaaed-d2f7-4dd4-bf68-25c55db465f7" name="Changes" comment="" />
+      <created>1740591489912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740591489912</updated>
+      <workItem from="1740591491159" duration="1560000" />
+      <workItem from="1740593067433" duration="2500000" />
+      <workItem from="1740595673604" duration="3814000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add mdk">
+      <option name="closed" value="true" />
+      <created>1740591585794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740591585794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add mdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add mdk" />
+  </component>
+</project>

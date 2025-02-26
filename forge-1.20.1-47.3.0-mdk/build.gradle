@@ -13,7 +13,7 @@ base {
 }
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
-java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
 println "Java: ${System.getProperty 'java.version'}, JVM: ${System.getProperty 'java.vm.version'} (${System.getProperty 'java.vendor'}), Arch: ${System.getProperty 'os.arch'}"
 minecraft {
@@ -120,6 +120,10 @@ repositories {
     // flatDir {
     //     dir 'libs'
     // }
+    maven {
+        name = "bluecoloredReleases"
+        url = uri("https://repo.bluecolored.de/releases")
+    }
 }
 
 dependencies {
@@ -144,6 +148,9 @@ dependencies {
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+    implementation fg.deobf('de.bluecolored:bluemap-api:2.7.4')
+    runtimeOnly fg.deobf('de.bluecolored:bluemap-api:2.7.4')
+
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
